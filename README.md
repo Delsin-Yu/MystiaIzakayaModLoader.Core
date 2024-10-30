@@ -1,2 +1,3 @@
-# MystiaIzakayaModeLoader.Core
-Core implementation of CLI-Server based Mod Loader for Touhou Mystia's Izakaya
+# MystiaIzakayaModLoader.Core
+
+This project is still in a very early stage of development and should not be used in proper project development.
